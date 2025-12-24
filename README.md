@@ -1,7 +1,6 @@
 # 🤗 Hugging Face NLP
 
-Welcome to this repository!  
-Explore how to leverage **Hugging Face NLP** to build **state-of-the-art Natural Language Processing (NLP) applications** efficiently and effectively. This project demonstrates multiple **real-world NLP workflows**, from sentiment analysis to dynamic category assignment, using **pre-trained transformer models and pipelines**.
+Welcome to this repository!Explore how to leverage **Hugging Face NLP** to build **state-of-the-art Natural Language Processing (NLP) applications** efficiently and effectively. This project demonstrates multiple **real-world NLP workflows**, from sentiment analysis to dynamic category assignment, using **pre-trained transformer models and pipelines**.
 
 
 
